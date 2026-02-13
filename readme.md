@@ -7,3 +7,5 @@ docker compose up --build
 
 Sammutus:
 docker compose down
+
+lisätty test.yml workflow, kokeillaan mvn testin ajoa
